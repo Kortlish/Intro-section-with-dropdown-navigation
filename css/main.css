@@ -299,7 +299,7 @@ img {
 }
 
 .container {
-  width: min(100%, 1600px);
+  width: min(100%, 1400px);
   margin: 0 auto;
 }
 
@@ -499,7 +499,7 @@ img {
     line-height: 1;
   }
   .main__heading-title {
-    font-size: 11rem;
+    font-size: 8rem;
     font-weight: 700;
   }
   .main__heading-subtitle {
