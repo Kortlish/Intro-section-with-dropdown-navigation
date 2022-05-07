@@ -81,7 +81,7 @@
 			height: 100%;
 			width: 100%;
 			padding: 1.5em;
-			background-color: #fff;
+			background-color: $white;
 			transform: translateX(120%);
 			transition: transform 250ms ease-in-out;
 
@@ -329,7 +329,7 @@
 							transform: translateY(-8px);
 							padding: 2em;
 							border-radius: 8px;
-							background-color: #fff;
+							background-color: $white;
 							box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2);
 							transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
 							z-index: 100;

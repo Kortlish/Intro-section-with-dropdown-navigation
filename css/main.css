@@ -37,7 +37,7 @@ a {
 
 body {
   font-family: 'Epilogue', sans-serif;
-  background-color: #fff;
+  background-color: #fafafa;
   min-height: 100vh;
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
@@ -165,7 +165,7 @@ img {
   height: 100%;
   width: 100%;
   padding: 1.5em;
-  background-color: #fff;
+  background-color: #fafafa;
   -webkit-transform: translateX(120%);
           transform: translateX(120%);
   -webkit-transition: -webkit-transform 250ms ease-in-out;
@@ -436,7 +436,7 @@ img {
             transform: translateY(-8px);
     padding: 2em;
     border-radius: 8px;
-    background-color: #fff;
+    background-color: #fafafa;
     -webkit-box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2);
             box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2);
     -webkit-transition: opacity 150ms ease-in-out, -webkit-transform 150ms ease-in-out;
